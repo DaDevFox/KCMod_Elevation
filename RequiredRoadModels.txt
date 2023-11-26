@@ -1,0 +1,51 @@
+All require variants in stone and normal versions
+
+Approach 1: 
+
+Straight:
+	Elevated_side1
+	Elevated_side2
+	
+	Elevated_side1_2
+Elbow:
+	Elevated_side1
+	Elevated_side2
+	
+	Elevated_side1_2
+Threeway:
+	Elevated_side1
+	Elevated_side2
+	Elevated_side3
+	
+	Elevated_side1_2
+	Elevated_side1_3
+	Elevated_side2_3
+	
+	Elevated_side1_2_3
+Fourway:
+	Elevated_side1
+	Elevated_side2
+	Elevated_side3
+	Elevated_side4
+	
+	Elevated_side1_2
+	Elevated_side1_3
+	Elevated_side1_4
+	Elevated_side2_3
+	Elevated_side2_4
+	Elevated_side3_4
+	
+	Elevated_side1_2_3
+	Elevated_side1_2_4
+	Elevated_side1_3_4
+	Elevated_side2_3_4
+	
+	Elevated_side1_2_3_4
+	
+Approach 2:
+	Central piece
+	Flat piece
+	Stairs piece
+
+Approach 3:
+	Stairs piece

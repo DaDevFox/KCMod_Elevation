@@ -1,0 +1,13 @@
+term,en,de,fr,es,zh
+generating_title,Generating…,,,,
+generating_description,This may take a while,,,,
+pruning_title,Processing Map…,,,,
+pruning_preprocessing,Preparing data,,,,
+pruning_floodfill,Indexing blocked cells,,,,
+pruning_reformat,Finalizing,,,,
+scaffolding_friendly_name,Scaffolding,,,,
+scaffolding_description,Adds 1 elevation tier to the tile once constructed. Can be used once on a tile without threatening the integrity of the ground.,,,,
+scaffolding_buildingthought,Thinks reaching new heights is a fruitful endeavour.,,,,
+dugout_friendly_name,Dugout,,,,
+dugout_description,Reduces 1 elevation tier to the tile once constructed. Can be used once on a tile without threatening the integrity of the ground.,,,,
+dugout_buildingthought,"Wary of dwarves, trolls, and the dark of the mountain.",,,,
